@@ -15,4 +15,4 @@ note={doi:10.1109/TCYB.2020.2984670}
 * finetune_model_newtask.py for personalized aesthetic model fine-tuning.  
 * train_meta_model.py for aesthetic prior model training.  
 
-* If you want to train the aesthetic prior model, you need download FLICKR-AES and AADB databases.  
+* If you want to train the aesthetic prior model, you need download [FLICKR-AES](https://github.com/alanspike/personalizedImageAesthetics) and [AADB](https://github.com/aimerykong/deepImageAestheticsAnalysis) databases.  
